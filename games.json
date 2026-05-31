@@ -1,0 +1,2952 @@
+[
+  {
+    "id": "flappy-rush",
+    "thumbnail": "https://arcuvo.github.io/images/300.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "z-stick-duel-fighting",
+    "thumbnail": "https://arcuvo.github.io/images/301.webp",
+    "genre": "Agility, Battle"
+  },
+  {
+    "id": "falling-blocks-puzzle",
+    "thumbnail": "https://arcuvo.github.io/images/302.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "traffic-jam-hop-on",
+    "thumbnail": "https://arcuvo.github.io/images/303.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "2048-run-gorgeous-balls",
+    "thumbnail": "https://arcuvo.github.io/images/304.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "winter-wolf",
+    "thumbnail": "https://arcuvo.github.io/images/305.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "sticker-jam-peel-off-match",
+    "thumbnail": "https://arcuvo.github.io/images/306.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "knee-case-simulator",
+    "thumbnail": "https://arcuvo.github.io/images/307.webp",
+    "genre": "Dress-up, Simulation"
+  },
+  {
+    "id": "the-walking-deadblocks",
+    "thumbnail": "https://arcuvo.github.io/images/308.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "mega-lamba-ramp",
+    "thumbnail": "https://arcuvo.github.io/images/309.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "turret-gunner",
+    "thumbnail": "https://arcuvo.github.io/images/310.webp",
+    "genre": "Shooter, Simulation"
+  },
+  {
+    "id": "merry-christmas-stickman",
+    "thumbnail": "https://arcuvo.github.io/images/311.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "snakemaxx",
+    "thumbnail": "https://arcuvo.github.io/images/312.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "nekos-adventure",
+    "thumbnail": "https://arcuvo.github.io/images/313.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "zumba-story",
+    "thumbnail": "https://arcuvo.github.io/images/314.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "spiderlox-theme-park-battle",
+    "thumbnail": "https://arcuvo.github.io/images/315.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "sprunki-challenge",
+    "thumbnail": "https://arcuvo.github.io/images/316.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "eat-blobs-simulator",
+    "thumbnail": "https://arcuvo.github.io/images/317.webp",
+    "genre": ".IO, Simulation"
+  },
+  {
+    "id": "northern-lights-the-secret-of-the-forest",
+    "thumbnail": "https://arcuvo.github.io/images/318.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "wild-race-master-3d",
+    "thumbnail": "https://arcuvo.github.io/images/319.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "road-race-3d",
+    "thumbnail": "https://arcuvo.github.io/images/320.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "pictures-riddle",
+    "thumbnail": "https://arcuvo.github.io/images/321.webp",
+    "genre": "Quiz"
+  },
+  {
+    "id": "nugget-man-survival-puzzle",
+    "thumbnail": "https://arcuvo.github.io/images/322.webp",
+    "genre": "Puzzle, Simulation"
+  },
+  {
+    "id": "word-mine",
+    "thumbnail": "https://arcuvo.github.io/images/323.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "poppy-player-puzzle",
+    "thumbnail": "https://arcuvo.github.io/images/324.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "match-find-3d",
+    "thumbnail": "https://arcuvo.github.io/images/325.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "transformers-battle-for-the-city",
+    "thumbnail": "https://arcuvo.github.io/images/326.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "doomsday-survival-rpg-shooter",
+    "thumbnail": "https://arcuvo.github.io/images/327.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "peg-solitaire",
+    "thumbnail": "https://arcuvo.github.io/images/328.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "stickman-miners-wars",
+    "thumbnail": "https://arcuvo.github.io/images/329.webp",
+    "genre": "Battle, Strategy"
+  },
+  {
+    "id": "merge-squares",
+    "thumbnail": "https://arcuvo.github.io/images/330.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "data-diggers",
+    "thumbnail": "https://arcuvo.github.io/images/331.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "panda-running",
+    "thumbnail": "https://arcuvo.github.io/images/332.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "stickman-warrior-way",
+    "thumbnail": "https://arcuvo.github.io/images/333.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "merge-rush-z",
+    "thumbnail": "https://arcuvo.github.io/images/334.webp",
+    "genre": "Adventure, Merge"
+  },
+  {
+    "id": "omg-word-sushi",
+    "thumbnail": "https://arcuvo.github.io/images/335.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "nuts-and-bolts-screw-puzzle",
+    "thumbnail": "https://arcuvo.github.io/images/336.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "brain-find-can-you-find-it",
+    "thumbnail": "https://arcuvo.github.io/images/337.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "stack-battleio",
+    "thumbnail": "https://arcuvo.github.io/images/338.webp",
+    "genre": ".IO"
+  },
+  {
+    "id": "off-road-overdrive",
+    "thumbnail": "https://arcuvo.github.io/images/339.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "merge-hospital",
+    "thumbnail": "https://arcuvo.github.io/images/340.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "hidden-object-great-journey",
+    "thumbnail": "https://arcuvo.github.io/images/341.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "reversi",
+    "thumbnail": "https://arcuvo.github.io/images/342.webp",
+    "genre": "Boardgames"
+  },
+  {
+    "id": "kick-and-ride",
+    "thumbnail": "https://arcuvo.github.io/images/343.webp",
+    "genre": "Puzzle, Sports"
+  },
+  {
+    "id": "bffs-spring-break-fashionista",
+    "thumbnail": "https://arcuvo.github.io/images/344.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "over-the-rainbow",
+    "thumbnail": "https://arcuvo.github.io/images/345.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "dreamy-jewel",
+    "thumbnail": "https://arcuvo.github.io/images/346.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "passenger-sort",
+    "thumbnail": "https://arcuvo.github.io/images/347.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "drunk-man-3d",
+    "thumbnail": "https://arcuvo.github.io/images/348.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "food-card-sort",
+    "thumbnail": "https://arcuvo.github.io/images/349.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "cube-stack-2048",
+    "thumbnail": "https://arcuvo.github.io/images/350.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "mirrors-puzzle",
+    "thumbnail": "https://arcuvo.github.io/images/351.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "turbo-stars",
+    "thumbnail": "https://arcuvo.github.io/images/352.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "griddlers-deluxe",
+    "thumbnail": "https://arcuvo.github.io/images/353.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "chill-girl-clicker",
+    "thumbnail": "https://arcuvo.github.io/images/354.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "super-sprunki-clicker",
+    "thumbnail": "https://arcuvo.github.io/images/355.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "office-brawl-room-smash",
+    "thumbnail": "https://arcuvo.github.io/images/356.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "color-nonogram-puzzle",
+    "thumbnail": "https://arcuvo.github.io/images/357.webp",
+    "genre": "Puzzle, Simulation"
+  },
+  {
+    "id": "parking-master-urban-challenges",
+    "thumbnail": "https://arcuvo.github.io/images/358.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "resident-evil-purge-operation",
+    "thumbnail": "https://arcuvo.github.io/images/359.webp",
+    "genre": "Shooter, Battle"
+  },
+  {
+    "id": "robby-bomberman",
+    "thumbnail": "https://arcuvo.github.io/images/360.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "space-raider",
+    "thumbnail": "https://arcuvo.github.io/images/361.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "hostage-fishes",
+    "thumbnail": "https://arcuvo.github.io/images/362.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "toca-avatar-my-hospital",
+    "thumbnail": "https://arcuvo.github.io/images/363.webp",
+    "genre": "Casual, Educational"
+  },
+  {
+    "id": "portal-master",
+    "thumbnail": "https://arcuvo.github.io/images/364.webp",
+    "genre": "Adventure, Battle"
+  },
+  {
+    "id": "code-runner-binary-confusion",
+    "thumbnail": "https://arcuvo.github.io/images/365.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "math-crossword-puzzle-genius-edition",
+    "thumbnail": "https://arcuvo.github.io/images/366.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "hammer-mastercraft-destroy",
+    "thumbnail": "https://arcuvo.github.io/images/367.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "huggy-wuggy-escape",
+    "thumbnail": "https://arcuvo.github.io/images/368.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "archer-go",
+    "thumbnail": "https://arcuvo.github.io/images/369.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "stickman-battle-1-4-players",
+    "thumbnail": "https://arcuvo.github.io/images/370.webp",
+    "genre": "Racing & Driving, Agility"
+  },
+  {
+    "id": "stickman-troll-thief-puzzle",
+    "thumbnail": "https://arcuvo.github.io/images/371.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "elevator-fight",
+    "thumbnail": "https://arcuvo.github.io/images/372.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "flick-n-bounce",
+    "thumbnail": "https://arcuvo.github.io/images/373.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "jump-ball-classic",
+    "thumbnail": "https://arcuvo.github.io/images/374.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "last-day-on-earth-survival",
+    "thumbnail": "https://arcuvo.github.io/images/375.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "solitaire-farm-seasons-4",
+    "thumbnail": "https://arcuvo.github.io/images/376.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "ng-flow-lines",
+    "thumbnail": "https://arcuvo.github.io/images/377.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "merge-3d-match-3-balloons",
+    "thumbnail": "https://arcuvo.github.io/images/378.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "tiles-of-the-unexpected-2",
+    "thumbnail": "https://arcuvo.github.io/images/379.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "colorsforms",
+    "thumbnail": "https://arcuvo.github.io/images/380.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "wordler",
+    "thumbnail": "https://arcuvo.github.io/images/381.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "bubble-shooter-temple-jewels",
+    "thumbnail": "https://arcuvo.github.io/images/382.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "black-pink-christmas-concert",
+    "thumbnail": "https://arcuvo.github.io/images/383.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "craft-man-vs-giant-tnt",
+    "thumbnail": "https://arcuvo.github.io/images/384.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "age-of-apes-run",
+    "thumbnail": "https://arcuvo.github.io/images/385.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "poopy-escape-the-prison",
+    "thumbnail": "https://arcuvo.github.io/images/386.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "timewalker-survive",
+    "thumbnail": "https://arcuvo.github.io/images/387.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "crazy-screw-king",
+    "thumbnail": "https://arcuvo.github.io/images/388.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "sprunki-monster-music-beats",
+    "thumbnail": "https://arcuvo.github.io/images/389.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "make-two",
+    "thumbnail": "https://arcuvo.github.io/images/390.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "prsino",
+    "thumbnail": "https://arcuvo.github.io/images/391.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "snowflight",
+    "thumbnail": "https://arcuvo.github.io/images/392.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "mustang-city-driver",
+    "thumbnail": "https://arcuvo.github.io/images/393.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "strike-force-action-platformer",
+    "thumbnail": "https://arcuvo.github.io/images/394.webp",
+    "genre": "Shooter, Battle"
+  },
+  {
+    "id": "room-sort-floor-plan",
+    "thumbnail": "https://arcuvo.github.io/images/395.webp",
+    "genre": "Puzzle, Simulation"
+  },
+  {
+    "id": "sweet-and-fruity-makeup",
+    "thumbnail": "https://arcuvo.github.io/images/396.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "geometry-platformer",
+    "thumbnail": "https://arcuvo.github.io/images/397.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "the-stone-miner",
+    "thumbnail": "https://arcuvo.github.io/images/398.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "cargo-skates",
+    "thumbnail": "https://arcuvo.github.io/images/399.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "paper-doll-diary-dress-up-diy",
+    "thumbnail": "https://arcuvo.github.io/images/400.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "fun-town-parking",
+    "thumbnail": "https://arcuvo.github.io/images/401.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "fidget-trading-card-toy",
+    "thumbnail": "https://arcuvo.github.io/images/402.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "blockapolypse-zombie-shooter",
+    "thumbnail": "https://arcuvo.github.io/images/403.webp",
+    "genre": "Shooter, Simulation"
+  },
+  {
+    "id": "downhill-car-ride-crash-test",
+    "thumbnail": "https://arcuvo.github.io/images/404.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "cat-escape-hide-and-seek",
+    "thumbnail": "https://arcuvo.github.io/images/405.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "hitman-sniper",
+    "thumbnail": "https://arcuvo.github.io/images/406.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "cat-escape",
+    "thumbnail": "https://arcuvo.github.io/images/407.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "idle-pop-merge",
+    "thumbnail": "https://arcuvo.github.io/images/408.webp",
+    "genre": "Shooter, Merge"
+  },
+  {
+    "id": "mech-monster-arena",
+    "thumbnail": "https://arcuvo.github.io/images/409.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "3d-acrylic-nail-nail-art-game",
+    "thumbnail": "https://arcuvo.github.io/images/410.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "cloak-master-shooter-run",
+    "thumbnail": "https://arcuvo.github.io/images/411.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "super-swing",
+    "thumbnail": "https://arcuvo.github.io/images/412.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "lovely-cat-pet-life",
+    "thumbnail": "https://arcuvo.github.io/images/413.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "mr-bullet-stealth-ninja-killstreak",
+    "thumbnail": "https://arcuvo.github.io/images/414.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "brainrot-evolution-game",
+    "thumbnail": "https://arcuvo.github.io/images/415.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "mahjong-adventure-world-quest",
+    "thumbnail": "https://arcuvo.github.io/images/416.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "magic-solitaire",
+    "thumbnail": "https://arcuvo.github.io/images/417.webp",
+    "genre": "Adventure, Cards"
+  },
+  {
+    "id": "card-master",
+    "thumbnail": "https://arcuvo.github.io/images/418.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "summer-rider-3d",
+    "thumbnail": "https://arcuvo.github.io/images/419.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "durak",
+    "thumbnail": "https://arcuvo.github.io/images/420.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "candy-chain-master",
+    "thumbnail": "https://arcuvo.github.io/images/421.webp",
+    "genre": "Agility, Match-3"
+  },
+  {
+    "id": "magic-piano-music",
+    "thumbnail": "https://arcuvo.github.io/images/422.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "rift-of-hell-demons-war",
+    "thumbnail": "https://arcuvo.github.io/images/423.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "metaxis",
+    "thumbnail": "https://arcuvo.github.io/images/424.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "catch-the-goose",
+    "thumbnail": "https://arcuvo.github.io/images/425.webp",
+    "genre": "Match-3, Merge"
+  },
+  {
+    "id": "barbee-met-gala-transformation",
+    "thumbnail": "https://arcuvo.github.io/images/426.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "push-it-3d",
+    "thumbnail": "https://arcuvo.github.io/images/427.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "idle-casino-manager-tycoon",
+    "thumbnail": "https://arcuvo.github.io/images/428.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "overprotective-boyfriend",
+    "thumbnail": "https://arcuvo.github.io/images/429.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "house-robber",
+    "thumbnail": "https://arcuvo.github.io/images/430.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "chess-online",
+    "thumbnail": "https://arcuvo.github.io/images/431.webp",
+    "genre": "Boardgames"
+  },
+  {
+    "id": "2048-match-balls",
+    "thumbnail": "https://arcuvo.github.io/images/432.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "321-choose-the-different",
+    "thumbnail": "https://arcuvo.github.io/images/433.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "checkers-deluxe-edition",
+    "thumbnail": "https://arcuvo.github.io/images/434.webp",
+    "genre": "Boardgames"
+  },
+  {
+    "id": "gangsta-duel",
+    "thumbnail": "https://arcuvo.github.io/images/435.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "superhero-transform-change-race",
+    "thumbnail": "https://arcuvo.github.io/images/436.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "puppy-merge",
+    "thumbnail": "https://arcuvo.github.io/images/437.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "traffic-cop-3d",
+    "thumbnail": "https://arcuvo.github.io/images/438.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "mineblock-obby",
+    "thumbnail": "https://arcuvo.github.io/images/439.webp",
+    "genre": "Sports, Agility"
+  },
+  {
+    "id": "devs-simulator",
+    "thumbnail": "https://arcuvo.github.io/images/440.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "stunt-fury",
+    "thumbnail": "https://arcuvo.github.io/images/441.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "mega-prize-scratch",
+    "thumbnail": "https://arcuvo.github.io/images/442.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "bffs-cherry-blossom-celebration",
+    "thumbnail": "https://arcuvo.github.io/images/443.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "tangled-snakes-sort-puzzle",
+    "thumbnail": "https://arcuvo.github.io/images/444.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "italian-brainrot-bomb-2player",
+    "thumbnail": "https://arcuvo.github.io/images/445.webp",
+    "genre": "Adventure, Battle"
+  },
+  {
+    "id": "summer-maze",
+    "thumbnail": "https://arcuvo.github.io/images/446.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "word-of-fortune",
+    "thumbnail": "https://arcuvo.github.io/images/447.webp",
+    "genre": "Puzzle, Quiz"
+  },
+  {
+    "id": "brainrot-hook-swing",
+    "thumbnail": "https://arcuvo.github.io/images/448.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "hazel-tangle-rope-3d-sorting-puzzle",
+    "thumbnail": "https://arcuvo.github.io/images/449.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "vsco-girl-aesthetic",
+    "thumbnail": "https://arcuvo.github.io/images/450.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "sokoban-puzzle-game",
+    "thumbnail": "https://arcuvo.github.io/images/451.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "mine-jump",
+    "thumbnail": "https://arcuvo.github.io/images/452.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "2248-block-merge",
+    "thumbnail": "https://arcuvo.github.io/images/453.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "solitaire-farm-seasons-3",
+    "thumbnail": "https://arcuvo.github.io/images/454.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "granny-gta-vegas",
+    "thumbnail": "https://arcuvo.github.io/images/455.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "sword-play-ninja-slice-runner",
+    "thumbnail": "https://arcuvo.github.io/images/456.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "geometry-arrow-2",
+    "thumbnail": "https://arcuvo.github.io/images/457.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "words-with-prof-wisely",
+    "thumbnail": "https://arcuvo.github.io/images/458.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "wednesday-light-academia",
+    "thumbnail": "https://arcuvo.github.io/images/459.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "sea-match",
+    "thumbnail": "https://arcuvo.github.io/images/460.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "animal-merge-bubble-shooter",
+    "thumbnail": "https://arcuvo.github.io/images/461.webp",
+    "genre": "Bubble Shooter, Merge"
+  },
+  {
+    "id": "squid-game-hunter",
+    "thumbnail": "https://arcuvo.github.io/images/462.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "phrasle-master",
+    "thumbnail": "https://arcuvo.github.io/images/463.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "cat-challenge",
+    "thumbnail": "https://arcuvo.github.io/images/464.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "diamond-solitaire-mahjong",
+    "thumbnail": "https://arcuvo.github.io/images/465.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "ninja-time",
+    "thumbnail": "https://arcuvo.github.io/images/466.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "stickman-leave-prison",
+    "thumbnail": "https://arcuvo.github.io/images/467.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "celebrity-wednesday-addams-style",
+    "thumbnail": "https://arcuvo.github.io/images/468.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "golf-mini",
+    "thumbnail": "https://arcuvo.github.io/images/469.webp",
+    "genre": "Sports, Casual"
+  },
+  {
+    "id": "chinese-food-chef-dudu",
+    "thumbnail": "https://arcuvo.github.io/images/470.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "hand-over-hand",
+    "thumbnail": "https://arcuvo.github.io/images/471.webp",
+    "genre": "Simulation, Strategy"
+  },
+  {
+    "id": "labubu-merge",
+    "thumbnail": "https://arcuvo.github.io/images/472.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "hexa-sort",
+    "thumbnail": "https://arcuvo.github.io/images/473.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "idle-baseball-tycoon",
+    "thumbnail": "https://arcuvo.github.io/images/474.webp",
+    "genre": "Sports, Simulation"
+  },
+  {
+    "id": "spooky-link",
+    "thumbnail": "https://arcuvo.github.io/images/475.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "magical-diary-paper-dress-up",
+    "thumbnail": "https://arcuvo.github.io/images/476.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "natural-disaster-survival-obby",
+    "thumbnail": "https://arcuvo.github.io/images/477.webp",
+    "genre": ".IO, Agility"
+  },
+  {
+    "id": "real-street-fighter-3d",
+    "thumbnail": "https://arcuvo.github.io/images/478.webp",
+    "genre": "Adventure, .IO"
+  },
+  {
+    "id": "mahjong-connect-gold",
+    "thumbnail": "https://arcuvo.github.io/images/479.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "match-masters",
+    "thumbnail": "https://arcuvo.github.io/images/480.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "guivoio",
+    "thumbnail": "https://arcuvo.github.io/images/481.webp",
+    "genre": ".IO, Match-3"
+  },
+  {
+    "id": "v-and-n-pizza-cooking-game",
+    "thumbnail": "https://arcuvo.github.io/images/482.webp",
+    "genre": "Cooking"
+  },
+  {
+    "id": "link-flow",
+    "thumbnail": "https://arcuvo.github.io/images/483.webp",
+    "genre": "Puzzle, Quiz"
+  },
+  {
+    "id": "minecraft-pixel-warfare",
+    "thumbnail": "https://arcuvo.github.io/images/484.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "tung-tung-sahur-in-geometry-dash",
+    "thumbnail": "https://arcuvo.github.io/images/485.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "dead-zone-mech-ops",
+    "thumbnail": "https://arcuvo.github.io/images/486.webp",
+    "genre": "Shooter, Simulation"
+  },
+  {
+    "id": "witchy-and-the-puzzle-adventures",
+    "thumbnail": "https://arcuvo.github.io/images/487.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "my-horse-is-amazing",
+    "thumbnail": "https://arcuvo.github.io/images/488.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "onet-mahjong-connect",
+    "thumbnail": "https://arcuvo.github.io/images/489.webp",
+    "genre": "Agility, Mahjong & Connect"
+  },
+  {
+    "id": "block-stacking",
+    "thumbnail": "https://arcuvo.github.io/images/490.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "mermaidcore-makeup",
+    "thumbnail": "https://arcuvo.github.io/images/491.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "swat-force-vs-terrorists",
+    "thumbnail": "https://arcuvo.github.io/images/492.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "car-stunt-racing-3d",
+    "thumbnail": "https://arcuvo.github.io/images/493.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "flight-sim-air-traffic-control",
+    "thumbnail": "https://arcuvo.github.io/images/494.webp",
+    "genre": "Puzzle, Simulation"
+  },
+  {
+    "id": "earwax-clinic",
+    "thumbnail": "https://arcuvo.github.io/images/495.webp",
+    "genre": "Care, Simulation"
+  },
+  {
+    "id": "help-the-duck",
+    "thumbnail": "https://arcuvo.github.io/images/496.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "galaxy-carnage",
+    "thumbnail": "https://arcuvo.github.io/images/497.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "dualight-a-reflected-game",
+    "thumbnail": "https://arcuvo.github.io/images/498.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "save-the-daddy",
+    "thumbnail": "https://arcuvo.github.io/images/499.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "graduation-makeup-trends",
+    "thumbnail": "https://arcuvo.github.io/images/500.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "thats-my-seat-logic-puzzle",
+    "thumbnail": "https://arcuvo.github.io/images/501.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "dolphin-couple-underwater-dress-up",
+    "thumbnail": "https://arcuvo.github.io/images/502.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "block-pixels",
+    "thumbnail": "https://arcuvo.github.io/images/503.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "noobhood-halloweencraft",
+    "thumbnail": "https://arcuvo.github.io/images/504.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "labubu-merge-clicker",
+    "thumbnail": "https://arcuvo.github.io/images/505.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "antistress-relaxation-box",
+    "thumbnail": "https://arcuvo.github.io/images/506.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "ultimate-sports-car-drift",
+    "thumbnail": "https://arcuvo.github.io/images/507.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "wacky-wheels",
+    "thumbnail": "https://arcuvo.github.io/images/508.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "charger-city-driver",
+    "thumbnail": "https://arcuvo.github.io/images/509.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "world-solitaire-tripeaks-",
+    "thumbnail": "https://arcuvo.github.io/images/510.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "bone-doctor-shoulder-case",
+    "thumbnail": "https://arcuvo.github.io/images/511.webp",
+    "genre": "Care"
+  },
+  {
+    "id": "pop-culture-halloween-makeup",
+    "thumbnail": "https://arcuvo.github.io/images/512.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "komaru-cat",
+    "thumbnail": "https://arcuvo.github.io/images/513.webp",
+    "genre": "Care, Casual"
+  },
+  {
+    "id": "butterfly-kyodai-rainbow",
+    "thumbnail": "https://arcuvo.github.io/images/514.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "leap-and-avoid-2",
+    "thumbnail": "https://arcuvo.github.io/images/515.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "digit-shooter",
+    "thumbnail": "https://arcuvo.github.io/images/516.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "mobile-phone-case-diy",
+    "thumbnail": "https://arcuvo.github.io/images/517.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "sudo-tetroid-daily",
+    "thumbnail": "https://arcuvo.github.io/images/518.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "imposter-coloring-book",
+    "thumbnail": "https://arcuvo.github.io/images/519.webp",
+    "genre": "Art, Educational"
+  },
+  {
+    "id": "spin-shot-siege",
+    "thumbnail": "https://arcuvo.github.io/images/520.webp",
+    "genre": "Shooter, Agility"
+  },
+  {
+    "id": "knit-bears",
+    "thumbnail": "https://arcuvo.github.io/images/521.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "coins",
+    "thumbnail": "https://arcuvo.github.io/images/522.webp",
+    "genre": "Puzzle, Agility"
+  },
+  {
+    "id": "crazy-motorcycle",
+    "thumbnail": "https://arcuvo.github.io/images/523.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "zombie-defense-war",
+    "thumbnail": "https://arcuvo.github.io/images/524.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "real-driving-simulator",
+    "thumbnail": "https://arcuvo.github.io/images/525.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "traitor-beaver",
+    "thumbnail": "https://arcuvo.github.io/images/526.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "mecha-duel",
+    "thumbnail": "https://arcuvo.github.io/images/527.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "screw-jam-fun-puzzle-game",
+    "thumbnail": "https://arcuvo.github.io/images/528.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "epic-hero-quest-idle-rpg",
+    "thumbnail": "https://arcuvo.github.io/images/529.webp",
+    "genre": "Adventure, Battle"
+  },
+  {
+    "id": "golden-frontier",
+    "thumbnail": "https://arcuvo.github.io/images/530.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "stickman-prison-escape",
+    "thumbnail": "https://arcuvo.github.io/images/531.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "vibrant-hearts-glamour-vs-punk",
+    "thumbnail": "https://arcuvo.github.io/images/532.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "police-car-line-driving",
+    "thumbnail": "https://arcuvo.github.io/images/533.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "fast-lap",
+    "thumbnail": "https://arcuvo.github.io/images/534.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "tap-gallery",
+    "thumbnail": "https://arcuvo.github.io/images/535.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "blocks-breaker",
+    "thumbnail": "https://arcuvo.github.io/images/536.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "real-racing-3d",
+    "thumbnail": "https://arcuvo.github.io/images/537.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "cube-stories-escape",
+    "thumbnail": "https://arcuvo.github.io/images/538.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "tile-sort-match-3",
+    "thumbnail": "https://arcuvo.github.io/images/539.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "block-digger",
+    "thumbnail": "https://arcuvo.github.io/images/540.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "monster-school-2",
+    "thumbnail": "https://arcuvo.github.io/images/541.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "russian-treasure-hunter",
+    "thumbnail": "https://arcuvo.github.io/images/542.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "battle-arena-race-to-win",
+    "thumbnail": "https://arcuvo.github.io/images/543.webp",
+    "genre": "Racing & Driving, Battle"
+  },
+  {
+    "id": "traffic-tap-puzzle",
+    "thumbnail": "https://arcuvo.github.io/images/544.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "gt-drift-most-wanted",
+    "thumbnail": "https://arcuvo.github.io/images/545.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "ellie-chinese-new-year-celebration",
+    "thumbnail": "https://arcuvo.github.io/images/546.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "my-perfect-organization",
+    "thumbnail": "https://arcuvo.github.io/images/547.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "grass-land",
+    "thumbnail": "https://arcuvo.github.io/images/548.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "darling-doll",
+    "thumbnail": "https://arcuvo.github.io/images/549.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "connect-image",
+    "thumbnail": "https://arcuvo.github.io/images/550.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "match-collection",
+    "thumbnail": "https://arcuvo.github.io/images/551.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "kitty-squad-winter-dress-up",
+    "thumbnail": "https://arcuvo.github.io/images/552.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "back-2-school-makeover",
+    "thumbnail": "https://arcuvo.github.io/images/553.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "lipstick-collector-run",
+    "thumbnail": "https://arcuvo.github.io/images/554.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "monster-dash",
+    "thumbnail": "https://arcuvo.github.io/images/555.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "type-sprint",
+    "thumbnail": "https://arcuvo.github.io/images/556.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "warping-bat",
+    "thumbnail": "https://arcuvo.github.io/images/557.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "hidden-pairs-mahjong",
+    "thumbnail": "https://arcuvo.github.io/images/558.webp",
+    "genre": "Agility, Mahjong & Connect"
+  },
+  {
+    "id": "maze-craze",
+    "thumbnail": "https://arcuvo.github.io/images/559.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "dollys-restaurant-organizing",
+    "thumbnail": "https://arcuvo.github.io/images/560.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "gorilla-adventure",
+    "thumbnail": "https://arcuvo.github.io/images/561.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "hydro-racing-3d",
+    "thumbnail": "https://arcuvo.github.io/images/562.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "cut-grass",
+    "thumbnail": "https://arcuvo.github.io/images/563.webp",
+    "genre": "Arcade"
+  },
+  {
+    "id": "us-army-car-games-truck-driving",
+    "thumbnail": "https://arcuvo.github.io/images/564.webp",
+    "genre": "Adventure, .IO"
+  },
+  {
+    "id": "heroball-adventures-2",
+    "thumbnail": "https://arcuvo.github.io/images/565.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "word-scramble-family-tales",
+    "thumbnail": "https://arcuvo.github.io/images/566.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "winter-cosmofest",
+    "thumbnail": "https://arcuvo.github.io/images/567.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "screamals",
+    "thumbnail": "https://arcuvo.github.io/images/568.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "evony-the-kings-return",
+    "thumbnail": "https://arcuvo.github.io/images/569.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "brainrot-bridge-race-3d",
+    "thumbnail": "https://arcuvo.github.io/images/570.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "rich-choice-run",
+    "thumbnail": "https://arcuvo.github.io/images/571.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "venetian-love-affair",
+    "thumbnail": "https://arcuvo.github.io/images/572.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "frost-land-snow-survival",
+    "thumbnail": "https://arcuvo.github.io/images/573.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "colorwarsio-conquest-game",
+    "thumbnail": "https://arcuvo.github.io/images/574.webp",
+    "genre": ".IO, Strategy"
+  },
+  {
+    "id": "clean-the-floor",
+    "thumbnail": "https://arcuvo.github.io/images/575.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "the-big-hit-run",
+    "thumbnail": "https://arcuvo.github.io/images/576.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "trial-xtreme",
+    "thumbnail": "https://arcuvo.github.io/images/577.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "stickman-escapes-from-prison",
+    "thumbnail": "https://arcuvo.github.io/images/578.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "2-player-games-kids-kitchen",
+    "thumbnail": "https://arcuvo.github.io/images/579.webp",
+    "genre": "Cooking, Simulation"
+  },
+  {
+    "id": "stickboys-hook",
+    "thumbnail": "https://arcuvo.github.io/images/580.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "bottle-challenge",
+    "thumbnail": "https://arcuvo.github.io/images/581.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "star-wing",
+    "thumbnail": "https://arcuvo.github.io/images/582.webp",
+    "genre": "Shooter, Battle"
+  },
+  {
+    "id": "puzzle-masters-travelers",
+    "thumbnail": "https://arcuvo.github.io/images/583.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "shoot-n-crush",
+    "thumbnail": "https://arcuvo.github.io/images/584.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "mahjong-magic-islands",
+    "thumbnail": "https://arcuvo.github.io/images/585.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "demolition-derby-derby",
+    "thumbnail": "https://arcuvo.github.io/images/586.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "asoka-makeup-indian-bride",
+    "thumbnail": "https://arcuvo.github.io/images/587.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "destination-brain-test",
+    "thumbnail": "https://arcuvo.github.io/images/588.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "slide-them-away",
+    "thumbnail": "https://arcuvo.github.io/images/589.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "gunfu-stickman-2",
+    "thumbnail": "https://arcuvo.github.io/images/590.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "gas-station-stick-simulator",
+    "thumbnail": "https://arcuvo.github.io/images/591.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "solitaire-deluxe-edition",
+    "thumbnail": "https://arcuvo.github.io/images/592.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "sniper-elite-3d",
+    "thumbnail": "https://arcuvo.github.io/images/593.webp",
+    "genre": "Shooter, Agility"
+  },
+  {
+    "id": "hexa-tap-away",
+    "thumbnail": "https://arcuvo.github.io/images/594.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "obby-rescue-pin",
+    "thumbnail": "https://arcuvo.github.io/images/595.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "doodle-football",
+    "thumbnail": "https://arcuvo.github.io/images/596.webp",
+    "genre": "Football, Casual"
+  },
+  {
+    "id": "merry-christmas-connect",
+    "thumbnail": "https://arcuvo.github.io/images/597.webp",
+    "genre": "Mahjong & Connect, Match-3"
+  },
+  {
+    "id": "cubes-2048io",
+    "thumbnail": "https://arcuvo.github.io/images/598.webp",
+    "genre": "Adventure, .IO"
+  },
+  {
+    "id": "boxteria",
+    "thumbnail": "https://arcuvo.github.io/images/599.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "fun-obby-extreme",
+    "thumbnail": "https://arcuvo.github.io/images/600.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "square-punki-long-hand",
+    "thumbnail": "https://arcuvo.github.io/images/601.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "cubatoria-merge-2048",
+    "thumbnail": "https://arcuvo.github.io/images/602.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "one-line-drawing",
+    "thumbnail": "https://arcuvo.github.io/images/603.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "sweet-merge",
+    "thumbnail": "https://arcuvo.github.io/images/604.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "tank-stars",
+    "thumbnail": "https://arcuvo.github.io/images/605.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "hobo-speedster",
+    "thumbnail": "https://arcuvo.github.io/images/606.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "link-color-pictures",
+    "thumbnail": "https://arcuvo.github.io/images/607.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "screw-sort-3d-screw-puzzle",
+    "thumbnail": "https://arcuvo.github.io/images/608.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "yummy-tales-3",
+    "thumbnail": "https://arcuvo.github.io/images/609.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "slime-farm",
+    "thumbnail": "https://arcuvo.github.io/images/610.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "snap-fix",
+    "thumbnail": "https://arcuvo.github.io/images/611.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "nubik-in-the-monster-world",
+    "thumbnail": "https://arcuvo.github.io/images/612.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "island-expander",
+    "thumbnail": "https://arcuvo.github.io/images/613.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "fish-kingdom",
+    "thumbnail": "https://arcuvo.github.io/images/614.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "tiny-baker-ocean-jelly-cake",
+    "thumbnail": "https://arcuvo.github.io/images/615.webp",
+    "genre": "Cooking"
+  },
+  {
+    "id": "pets-vs-bees",
+    "thumbnail": "https://arcuvo.github.io/images/616.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "smashdoll",
+    "thumbnail": "https://arcuvo.github.io/images/617.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "epic-car-stunt-race-obby",
+    "thumbnail": "https://arcuvo.github.io/images/618.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "yummy-trails",
+    "thumbnail": "https://arcuvo.github.io/images/619.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "dead-faces-clone-online",
+    "thumbnail": "https://arcuvo.github.io/images/620.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "riddlemath",
+    "thumbnail": "https://arcuvo.github.io/images/621.webp",
+    "genre": "Educational"
+  },
+  {
+    "id": "mergeduelio",
+    "thumbnail": "https://arcuvo.github.io/images/622.webp",
+    "genre": ".IO, Merge"
+  },
+  {
+    "id": "sniper-team-3",
+    "thumbnail": "https://arcuvo.github.io/images/623.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "hero-tower-wars-merge-puzzle",
+    "thumbnail": "https://arcuvo.github.io/images/624.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "water-sort",
+    "thumbnail": "https://arcuvo.github.io/images/625.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "physics-box-2",
+    "thumbnail": "https://arcuvo.github.io/images/626.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "lambo-traffic-racer",
+    "thumbnail": "https://arcuvo.github.io/images/627.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "find-steal-brainrot-67-game",
+    "thumbnail": "https://arcuvo.github.io/images/628.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "build-a-queen-2025",
+    "thumbnail": "https://arcuvo.github.io/images/629.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "solitaire-klondike",
+    "thumbnail": "https://arcuvo.github.io/images/630.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "cookie-land",
+    "thumbnail": "https://arcuvo.github.io/images/631.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "bubble-shooter-spinner-pop",
+    "thumbnail": "https://arcuvo.github.io/images/632.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "mermaid-princess-avater-castle",
+    "thumbnail": "https://arcuvo.github.io/images/633.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "shelter-security-gatekeeper-simulator",
+    "thumbnail": "https://arcuvo.github.io/images/634.webp",
+    "genre": "Puzzle, Simulation"
+  },
+  {
+    "id": "color-jam-3d",
+    "thumbnail": "https://arcuvo.github.io/images/635.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "stickman-archer-shooting-arrows-at-reds",
+    "thumbnail": "https://arcuvo.github.io/images/636.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "ragdoll-football-2-players",
+    "thumbnail": "https://arcuvo.github.io/images/637.webp",
+    "genre": "Football"
+  },
+  {
+    "id": "domino-online-multiplayer",
+    "thumbnail": "https://arcuvo.github.io/images/638.webp",
+    "genre": "Boardgames"
+  },
+  {
+    "id": "ghost-escape-3d",
+    "thumbnail": "https://arcuvo.github.io/images/639.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "hoard-master-online",
+    "thumbnail": "https://arcuvo.github.io/images/640.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "bounce-dunk-basketball",
+    "thumbnail": "https://arcuvo.github.io/images/641.webp",
+    "genre": "Basketball, Casual"
+  },
+  {
+    "id": "reflect-beam-laser-logic",
+    "thumbnail": "https://arcuvo.github.io/images/642.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "funny-walk-fail-run",
+    "thumbnail": "https://arcuvo.github.io/images/643.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "pet-doctor-business-tycoon-pet-care-game",
+    "thumbnail": "https://arcuvo.github.io/images/644.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "online-cats-multiplayer-park",
+    "thumbnail": "https://arcuvo.github.io/images/645.webp",
+    "genre": ".IO, Casual"
+  },
+  {
+    "id": "hexa-sort-master",
+    "thumbnail": "https://arcuvo.github.io/images/646.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "athena-match",
+    "thumbnail": "https://arcuvo.github.io/images/647.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "shopaholic-black-friday",
+    "thumbnail": "https://arcuvo.github.io/images/648.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "tile-living",
+    "thumbnail": "https://arcuvo.github.io/images/649.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "kitten-never-dies",
+    "thumbnail": "https://arcuvo.github.io/images/650.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "angry-snake-io",
+    "thumbnail": "https://arcuvo.github.io/images/651.webp",
+    "genre": "Adventure, .IO"
+  },
+  {
+    "id": "squid-game-3d",
+    "thumbnail": "https://arcuvo.github.io/images/652.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "pushover-3d",
+    "thumbnail": "https://arcuvo.github.io/images/653.webp",
+    "genre": "Agility, Battle"
+  },
+  {
+    "id": "flowball",
+    "thumbnail": "https://arcuvo.github.io/images/654.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "bmg-crashday-2025",
+    "thumbnail": "https://arcuvo.github.io/images/655.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "dog-merge-mania",
+    "thumbnail": "https://arcuvo.github.io/images/656.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "desert-rover-survival",
+    "thumbnail": "https://arcuvo.github.io/images/657.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "face-changes",
+    "thumbnail": "https://arcuvo.github.io/images/658.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "ocean-kids-back-to-school",
+    "thumbnail": "https://arcuvo.github.io/images/659.webp",
+    "genre": "Art, Dress-up"
+  },
+  {
+    "id": "sort-and-style-back-to-school",
+    "thumbnail": "https://arcuvo.github.io/images/660.webp",
+    "genre": "Puzzle, Dress-up"
+  },
+  {
+    "id": "digger-fighter-in-the-maze",
+    "thumbnail": "https://arcuvo.github.io/images/661.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "craft-of-wars",
+    "thumbnail": "https://arcuvo.github.io/images/662.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "city-tower-builder",
+    "thumbnail": "https://arcuvo.github.io/images/663.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "alchemy-puzzle",
+    "thumbnail": "https://arcuvo.github.io/images/664.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "spider-rope-hero-city-fight",
+    "thumbnail": "https://arcuvo.github.io/images/665.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "black-hole-beauty-makeup",
+    "thumbnail": "https://arcuvo.github.io/images/666.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "parkour-block-obby",
+    "thumbnail": "https://arcuvo.github.io/images/667.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "sprunki-memory-card-match",
+    "thumbnail": "https://arcuvo.github.io/images/668.webp",
+    "genre": "Educational"
+  },
+  {
+    "id": "hill-station-bus-simulator",
+    "thumbnail": "https://arcuvo.github.io/images/669.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "monster-collect-run",
+    "thumbnail": "https://arcuvo.github.io/images/670.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "nose-hospital",
+    "thumbnail": "https://arcuvo.github.io/images/671.webp",
+    "genre": "Care"
+  },
+  {
+    "id": "save-the-crop",
+    "thumbnail": "https://arcuvo.github.io/images/672.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "skibidi-toilet-vs-cameraman-sniper-game",
+    "thumbnail": "https://arcuvo.github.io/images/673.webp",
+    "genre": "Shooter, Simulation"
+  },
+  {
+    "id": "driftclicker",
+    "thumbnail": "https://arcuvo.github.io/images/674.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "stunt-multiplayer-arena",
+    "thumbnail": "https://arcuvo.github.io/images/675.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "cut-in-half",
+    "thumbnail": "https://arcuvo.github.io/images/676.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "brawl-stars",
+    "thumbnail": "https://arcuvo.github.io/images/677.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "pool-merge",
+    "thumbnail": "https://arcuvo.github.io/images/678.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "word-stars",
+    "thumbnail": "https://arcuvo.github.io/images/679.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "bubble-shooter-blast",
+    "thumbnail": "https://arcuvo.github.io/images/680.webp",
+    "genre": "Puzzle, Bubble Shooter"
+  },
+  {
+    "id": "base-jump-wingsuit-flying",
+    "thumbnail": "https://arcuvo.github.io/images/681.webp",
+    "genre": "Sports, Agility"
+  },
+  {
+    "id": "eat-donuts",
+    "thumbnail": "https://arcuvo.github.io/images/682.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "klondike-solitaire",
+    "thumbnail": "https://arcuvo.github.io/images/683.webp",
+    "genre": "Cards, Strategy"
+  },
+  {
+    "id": "super-racing",
+    "thumbnail": "https://arcuvo.github.io/images/684.webp",
+    "genre": "Adventure, Racing & Driving"
+  },
+  {
+    "id": "monster-high-spooky-fashion",
+    "thumbnail": "https://arcuvo.github.io/images/685.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "sorting-frogs",
+    "thumbnail": "https://arcuvo.github.io/images/686.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "zombies-and-guns",
+    "thumbnail": "https://arcuvo.github.io/images/687.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "chicken-jump-a-tap-challenge",
+    "thumbnail": "https://arcuvo.github.io/images/688.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "room-sort",
+    "thumbnail": "https://arcuvo.github.io/images/689.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "skillful-finger",
+    "thumbnail": "https://arcuvo.github.io/images/690.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "zombie-rodeo-multiplication",
+    "thumbnail": "https://arcuvo.github.io/images/691.webp",
+    "genre": "Educational"
+  },
+  {
+    "id": "love-tile-trio",
+    "thumbnail": "https://arcuvo.github.io/images/692.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "ragdoll-beat-simulator",
+    "thumbnail": "https://arcuvo.github.io/images/693.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "number-tricky-puzzles",
+    "thumbnail": "https://arcuvo.github.io/images/694.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "mahjong-riddles-egypt",
+    "thumbnail": "https://arcuvo.github.io/images/695.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "basketball-rush",
+    "thumbnail": "https://arcuvo.github.io/images/696.webp",
+    "genre": "Basketball, Casual"
+  },
+  {
+    "id": "bubble-around",
+    "thumbnail": "https://arcuvo.github.io/images/697.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "merge-smith",
+    "thumbnail": "https://arcuvo.github.io/images/698.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "academy-assault",
+    "thumbnail": "https://arcuvo.github.io/images/699.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "amazing-airplane-racer",
+    "thumbnail": "https://arcuvo.github.io/images/700.webp",
+    "genre": "Adventure, Racing & Driving"
+  },
+  {
+    "id": "single-stroke-line-draw",
+    "thumbnail": "https://arcuvo.github.io/images/701.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "cashier-game",
+    "thumbnail": "https://arcuvo.github.io/images/702.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "plug-man-race",
+    "thumbnail": "https://arcuvo.github.io/images/703.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "block-eating-simulator",
+    "thumbnail": "https://arcuvo.github.io/images/704.webp",
+    "genre": ".IO"
+  },
+  {
+    "id": "bunnies-sort",
+    "thumbnail": "https://arcuvo.github.io/images/705.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "halloween-fruit-slice",
+    "thumbnail": "https://arcuvo.github.io/images/706.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "coin-stack-up",
+    "thumbnail": "https://arcuvo.github.io/images/707.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "animal-in-rails",
+    "thumbnail": "https://arcuvo.github.io/images/708.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "ball-drop",
+    "thumbnail": "https://arcuvo.github.io/images/709.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "rainbow-friends-hide-and-seek",
+    "thumbnail": "https://arcuvo.github.io/images/710.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "princess-rescue-fruit-connect",
+    "thumbnail": "https://arcuvo.github.io/images/711.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "bubble-ball",
+    "thumbnail": "https://arcuvo.github.io/images/712.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "skate-hooligans",
+    "thumbnail": "https://arcuvo.github.io/images/713.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "block-blaster-puzzle",
+    "thumbnail": "https://arcuvo.github.io/images/714.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "pato-vs-cops",
+    "thumbnail": "https://arcuvo.github.io/images/715.webp",
+    "genre": ".IO"
+  },
+  {
+    "id": "aqua-blitz-2",
+    "thumbnail": "https://arcuvo.github.io/images/716.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "mahjong-slide-puzzle",
+    "thumbnail": "https://arcuvo.github.io/images/717.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "world-war-brothers-ww2",
+    "thumbnail": "https://arcuvo.github.io/images/718.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "the-prism-city-detectives",
+    "thumbnail": "https://arcuvo.github.io/images/719.webp",
+    "genre": "Puzzle, Dress-up"
+  },
+  {
+    "id": "level-up-mutants",
+    "thumbnail": "https://arcuvo.github.io/images/720.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "wednesday-dark-academia",
+    "thumbnail": "https://arcuvo.github.io/images/721.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "idle-barber-shop",
+    "thumbnail": "https://arcuvo.github.io/images/722.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "watermelon-merge",
+    "thumbnail": "https://arcuvo.github.io/images/723.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "mahjong-cute-tiles",
+    "thumbnail": "https://arcuvo.github.io/images/724.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "idle-trade-isle",
+    "thumbnail": "https://arcuvo.github.io/images/725.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "madness-driver-vertigo-city",
+    "thumbnail": "https://arcuvo.github.io/images/726.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "black-pink-halloween-concert",
+    "thumbnail": "https://arcuvo.github.io/images/727.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "sniper-shot-secret-mission",
+    "thumbnail": "https://arcuvo.github.io/images/728.webp",
+    "genre": "Shooter, Strategy"
+  },
+  {
+    "id": "tow-n-go",
+    "thumbnail": "https://arcuvo.github.io/images/729.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "bff-happy-spring",
+    "thumbnail": "https://arcuvo.github.io/images/730.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "princess-dress-up-run",
+    "thumbnail": "https://arcuvo.github.io/images/731.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "spider-noob-obstacle-course",
+    "thumbnail": "https://arcuvo.github.io/images/732.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "jetstream-escape",
+    "thumbnail": "https://arcuvo.github.io/images/733.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "sudoku-garden",
+    "thumbnail": "https://arcuvo.github.io/images/734.webp",
+    "genre": "Puzzle, Quiz"
+  },
+  {
+    "id": "elementz",
+    "thumbnail": "https://arcuvo.github.io/images/735.webp",
+    "genre": "Match-3, Merge"
+  },
+  {
+    "id": "4-hexa",
+    "thumbnail": "https://arcuvo.github.io/images/736.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "draw-to-smash-zombie",
+    "thumbnail": "https://arcuvo.github.io/images/737.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "brain-puzzles-quests",
+    "thumbnail": "https://arcuvo.github.io/images/738.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "free-hoops",
+    "thumbnail": "https://arcuvo.github.io/images/739.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "go-to-zero",
+    "thumbnail": "https://arcuvo.github.io/images/740.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "princess-run-3d",
+    "thumbnail": "https://arcuvo.github.io/images/741.webp",
+    "genre": "Adventure, Racing & Driving"
+  },
+  {
+    "id": "feet-doctor-urgency-care",
+    "thumbnail": "https://arcuvo.github.io/images/742.webp",
+    "genre": "Care, Simulation"
+  },
+  {
+    "id": "merge-2048-cake",
+    "thumbnail": "https://arcuvo.github.io/images/743.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "monster-squad-rush",
+    "thumbnail": "https://arcuvo.github.io/images/744.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "match-dream-garden",
+    "thumbnail": "https://arcuvo.github.io/images/745.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "fruit-merge-arena",
+    "thumbnail": "https://arcuvo.github.io/images/746.webp",
+    "genre": "Simulation, Merge"
+  },
+  {
+    "id": "brainrot-click-to-hatch",
+    "thumbnail": "https://arcuvo.github.io/images/747.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "solitaire-match",
+    "thumbnail": "https://arcuvo.github.io/images/748.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "cunning-ginger",
+    "thumbnail": "https://arcuvo.github.io/images/749.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "magic-bottles",
+    "thumbnail": "https://arcuvo.github.io/images/750.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "aventador-vice-crime-city",
+    "thumbnail": "https://arcuvo.github.io/images/751.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "roof-car-stunt",
+    "thumbnail": "https://arcuvo.github.io/images/752.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "happy-glass-game",
+    "thumbnail": "https://arcuvo.github.io/images/753.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "burger-cafe-cooking-games-for-kids",
+    "thumbnail": "https://arcuvo.github.io/images/754.webp",
+    "genre": "Cooking, Casual"
+  },
+  {
+    "id": "car-paint",
+    "thumbnail": "https://arcuvo.github.io/images/755.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "gmod-bombs",
+    "thumbnail": "https://arcuvo.github.io/images/756.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "slippery-drift-racing",
+    "thumbnail": "https://arcuvo.github.io/images/757.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "draw-to-fly",
+    "thumbnail": "https://arcuvo.github.io/images/758.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "fantasy-math-number",
+    "thumbnail": "https://arcuvo.github.io/images/759.webp",
+    "genre": "Educational"
+  },
+  {
+    "id": "kingdom-wars-td",
+    "thumbnail": "https://arcuvo.github.io/images/760.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "super-pop-blast",
+    "thumbnail": "https://arcuvo.github.io/images/761.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "jailbreak-escape-from-prison",
+    "thumbnail": "https://arcuvo.github.io/images/762.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "princess-rescue-save-girl",
+    "thumbnail": "https://arcuvo.github.io/images/763.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "mini-obby-war-game",
+    "thumbnail": "https://arcuvo.github.io/images/764.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "politon",
+    "thumbnail": "https://arcuvo.github.io/images/765.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "rolling-balls-sea-race",
+    "thumbnail": "https://arcuvo.github.io/images/766.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "bubble-mania-shooter",
+    "thumbnail": "https://arcuvo.github.io/images/767.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "two-stunt-racers",
+    "thumbnail": "https://arcuvo.github.io/images/768.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "rollance-going-balls",
+    "thumbnail": "https://arcuvo.github.io/images/769.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "sandstorm-covert-ops",
+    "thumbnail": "https://arcuvo.github.io/images/770.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "football-heads-2025",
+    "thumbnail": "https://arcuvo.github.io/images/771.webp",
+    "genre": "Football"
+  },
+  {
+    "id": "color-mix-jelly-merge",
+    "thumbnail": "https://arcuvo.github.io/images/772.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "stardom-alt-girls-fashion-duel",
+    "thumbnail": "https://arcuvo.github.io/images/773.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "my-perfect-mine",
+    "thumbnail": "https://arcuvo.github.io/images/774.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "water-dig-rescue",
+    "thumbnail": "https://arcuvo.github.io/images/775.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "mahjong-crimes-puzzle-story",
+    "thumbnail": "https://arcuvo.github.io/images/776.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "asmr-beauty-superstar",
+    "thumbnail": "https://arcuvo.github.io/images/777.webp",
+    "genre": "Dress-up, Simulation"
+  },
+  {
+    "id": "hydraulic-press-2d-asmr",
+    "thumbnail": "https://arcuvo.github.io/images/778.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "farm-block",
+    "thumbnail": "https://arcuvo.github.io/images/779.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "winter-hexa-stack",
+    "thumbnail": "https://arcuvo.github.io/images/780.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "fun-mini-games-for-kids",
+    "thumbnail": "https://arcuvo.github.io/images/781.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "hero-transform-run",
+    "thumbnail": "https://arcuvo.github.io/images/782.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "lovie-chics-coachella-festival",
+    "thumbnail": "https://arcuvo.github.io/images/783.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "mojicon-fruit-connect",
+    "thumbnail": "https://arcuvo.github.io/images/784.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "quiz-master",
+    "thumbnail": "https://arcuvo.github.io/images/785.webp",
+    "genre": "Casual, Quiz"
+  },
+  {
+    "id": "avatar-life-my-town",
+    "thumbnail": "https://arcuvo.github.io/images/786.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "eastern-star-vs-city-style-icon",
+    "thumbnail": "https://arcuvo.github.io/images/787.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "mr-bounce",
+    "thumbnail": "https://arcuvo.github.io/images/788.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "backgammon-deluxe-edition",
+    "thumbnail": "https://arcuvo.github.io/images/789.webp",
+    "genre": "Boardgames"
+  },
+  {
+    "id": "bridge-wars",
+    "thumbnail": "https://arcuvo.github.io/images/790.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "girls-fun-nail-salon",
+    "thumbnail": "https://arcuvo.github.io/images/791.webp",
+    "genre": "Art, Casual"
+  },
+  {
+    "id": "zombie-horde-build-survive",
+    "thumbnail": "https://arcuvo.github.io/images/792.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "archers-random",
+    "thumbnail": "https://arcuvo.github.io/images/793.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "flag-puzzle-jam-collect-flags",
+    "thumbnail": "https://arcuvo.github.io/images/794.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "hidden-horrors",
+    "thumbnail": "https://arcuvo.github.io/images/795.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "twilight-solitaire-tripeaks",
+    "thumbnail": "https://arcuvo.github.io/images/796.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "liquids-sort-puzzle",
+    "thumbnail": "https://arcuvo.github.io/images/797.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "escape-steal-brainrot-sahur-hills",
+    "thumbnail": "https://arcuvo.github.io/images/798.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "mages-secret",
+    "thumbnail": "https://arcuvo.github.io/images/799.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "hidden-object-rooms-exploration",
+    "thumbnail": "https://arcuvo.github.io/images/800.webp",
+    "genre": "Puzzle, Agility"
+  },
+  {
+    "id": "alien-wreckage-1",
+    "thumbnail": "https://arcuvo.github.io/images/801.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "math-runner",
+    "thumbnail": "https://arcuvo.github.io/images/802.webp",
+    "genre": "Casual, Educational"
+  },
+  {
+    "id": "jump-girl-3d",
+    "thumbnail": "https://arcuvo.github.io/images/803.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "monster-school-3",
+    "thumbnail": "https://arcuvo.github.io/images/804.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "minicraft-winterblock",
+    "thumbnail": "https://arcuvo.github.io/images/805.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "flip-it-3d",
+    "thumbnail": "https://arcuvo.github.io/images/806.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "merge-master",
+    "thumbnail": "https://arcuvo.github.io/images/807.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "traffic-racing",
+    "thumbnail": "https://arcuvo.github.io/images/808.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "springle-puzzle",
+    "thumbnail": "https://arcuvo.github.io/images/809.webp",
+    "genre": "Jigsaw"
+  },
+  {
+    "id": "water-junk-warriors",
+    "thumbnail": "https://arcuvo.github.io/images/810.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "koi-fish-pond-idle-merge-game",
+    "thumbnail": "https://arcuvo.github.io/images/811.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "sheep-sheep-duck",
+    "thumbnail": "https://arcuvo.github.io/images/812.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "blankets",
+    "thumbnail": "https://arcuvo.github.io/images/813.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "match-ten-number-puzzle",
+    "thumbnail": "https://arcuvo.github.io/images/814.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "sword-life",
+    "thumbnail": "https://arcuvo.github.io/images/815.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "eye-art-perfect-makeup-artist",
+    "thumbnail": "https://arcuvo.github.io/images/816.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "goo-goo-gaga-clicker",
+    "thumbnail": "https://arcuvo.github.io/images/817.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "xmas-presents-mahjong",
+    "thumbnail": "https://arcuvo.github.io/images/818.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "caillou-chef",
+    "thumbnail": "https://arcuvo.github.io/images/819.webp",
+    "genre": "Cooking, Simulation"
+  },
+  {
+    "id": "hidden-mushrooms",
+    "thumbnail": "https://arcuvo.github.io/images/820.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "pizza-tycoon",
+    "thumbnail": "https://arcuvo.github.io/images/821.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "block-builder-jam",
+    "thumbnail": "https://arcuvo.github.io/images/822.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "jungle-fury-mutant-rhino-mayhem",
+    "thumbnail": "https://arcuvo.github.io/images/823.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "goon-ball",
+    "thumbnail": "https://arcuvo.github.io/images/824.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "obby-parkour-racing",
+    "thumbnail": "https://arcuvo.github.io/images/825.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "pimple-squeeze",
+    "thumbnail": "https://arcuvo.github.io/images/826.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "coin-empire",
+    "thumbnail": "https://arcuvo.github.io/images/827.webp",
+    "genre": "Battle, Strategy"
+  },
+  {
+    "id": "two-blocks",
+    "thumbnail": "https://arcuvo.github.io/images/828.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "beggar-clicker",
+    "thumbnail": "https://arcuvo.github.io/images/829.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "bubble-letters",
+    "thumbnail": "https://arcuvo.github.io/images/830.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "gt-cars-city-racing",
+    "thumbnail": "https://arcuvo.github.io/images/831.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "obby-dead-river",
+    "thumbnail": "https://arcuvo.github.io/images/832.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "geometry-dash-maze-maps-v2",
+    "thumbnail": "https://arcuvo.github.io/images/833.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "digital-aqua",
+    "thumbnail": "https://arcuvo.github.io/images/834.webp",
+    "genre": "Art, Care"
+  },
+  {
+    "id": "wave-chic-ocean-fashion-frenzy",
+    "thumbnail": "https://arcuvo.github.io/images/835.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "bloons-survivalio",
+    "thumbnail": "https://arcuvo.github.io/images/836.webp",
+    "genre": ".IO"
+  },
+  {
+    "id": "sand-block-blast",
+    "thumbnail": "https://arcuvo.github.io/images/837.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "brain-puzzle-tricky-choices",
+    "thumbnail": "https://arcuvo.github.io/images/838.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "blackriver-mystery-hidden-objects",
+    "thumbnail": "https://arcuvo.github.io/images/839.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "daily-chess-puzzle",
+    "thumbnail": "https://arcuvo.github.io/images/840.webp",
+    "genre": "Boardgames"
+  },
+  {
+    "id": "force-master-3d",
+    "thumbnail": "https://arcuvo.github.io/images/841.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "blue-vs-red",
+    "thumbnail": "https://arcuvo.github.io/images/842.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "lazy-workers",
+    "thumbnail": "https://arcuvo.github.io/images/843.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "star-attack-3d",
+    "thumbnail": "https://arcuvo.github.io/images/844.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "burger-tycoon",
+    "thumbnail": "https://arcuvo.github.io/images/845.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "stick-fight-the-chaos",
+    "thumbnail": "https://arcuvo.github.io/images/846.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "packing-line",
+    "thumbnail": "https://arcuvo.github.io/images/847.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "jello-bubbles",
+    "thumbnail": "https://arcuvo.github.io/images/848.webp",
+    "genre": "Bubble Shooter, Match-3"
+  },
+  {
+    "id": "labuba-merge",
+    "thumbnail": "https://arcuvo.github.io/images/849.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "cat-evolution-2",
+    "thumbnail": "https://arcuvo.github.io/images/850.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "real-car-parking-and-stunt",
+    "thumbnail": "https://arcuvo.github.io/images/851.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "roblo-x-zombie",
+    "thumbnail": "https://arcuvo.github.io/images/852.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "bullet-superhero",
+    "thumbnail": "https://arcuvo.github.io/images/853.webp",
+    "genre": "Puzzle, Shooter"
+  },
+  {
+    "id": "emoji-guess",
+    "thumbnail": "https://arcuvo.github.io/images/854.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "word-cross",
+    "thumbnail": "https://arcuvo.github.io/images/855.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "block-team-deathmatch",
+    "thumbnail": "https://arcuvo.github.io/images/856.webp",
+    "genre": "Shooter, Battle"
+  },
+  {
+    "id": "geometry-arrow",
+    "thumbnail": "https://arcuvo.github.io/images/857.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "hyper-nurse-hospital-games",
+    "thumbnail": "https://arcuvo.github.io/images/858.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "caterfall-2048",
+    "thumbnail": "https://arcuvo.github.io/images/859.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "snake-puzzle-escape",
+    "thumbnail": "https://arcuvo.github.io/images/860.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "sort-puzzle-nuts-and-bolts",
+    "thumbnail": "https://arcuvo.github.io/images/861.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "merge-brainrot-2",
+    "thumbnail": "https://arcuvo.github.io/images/862.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "fashion-dye-pro",
+    "thumbnail": "https://arcuvo.github.io/images/863.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "cat-life-simulator-devil-cat",
+    "thumbnail": "https://arcuvo.github.io/images/864.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "the-noob-aventures",
+    "thumbnail": "https://arcuvo.github.io/images/865.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "run-n-shoot",
+    "thumbnail": "https://arcuvo.github.io/images/866.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "kitkat-puzzle",
+    "thumbnail": "https://arcuvo.github.io/images/867.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "bimka-drive-smash-cars-into-splinters",
+    "thumbnail": "https://arcuvo.github.io/images/868.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "manyunya-saving-the-princess",
+    "thumbnail": "https://arcuvo.github.io/images/869.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "spa-empire",
+    "thumbnail": "https://arcuvo.github.io/images/870.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "eq-test-puzzle",
+    "thumbnail": "https://arcuvo.github.io/images/871.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "gods-mixer",
+    "thumbnail": "https://arcuvo.github.io/images/872.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "swordedio-spin-and-rub",
+    "thumbnail": "https://arcuvo.github.io/images/873.webp",
+    "genre": ".IO, Battle"
+  },
+  {
+    "id": "design-with-me-superhero-tutu-outfits",
+    "thumbnail": "https://arcuvo.github.io/images/874.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "boyfriend-for-hire",
+    "thumbnail": "https://arcuvo.github.io/images/875.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "red-stickman-vs-craftmans",
+    "thumbnail": "https://arcuvo.github.io/images/876.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "my-castle-merge-story",
+    "thumbnail": "https://arcuvo.github.io/images/877.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "squad-assembler",
+    "thumbnail": "https://arcuvo.github.io/images/878.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "find-objects-hidden-item",
+    "thumbnail": "https://arcuvo.github.io/images/879.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "rescue-rift",
+    "thumbnail": "https://arcuvo.github.io/images/880.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "cake-merge",
+    "thumbnail": "https://arcuvo.github.io/images/881.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "slope-snowball",
+    "thumbnail": "https://arcuvo.github.io/images/882.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "triple-sort-3d-home-design",
+    "thumbnail": "https://arcuvo.github.io/images/883.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "press-a-to-party",
+    "thumbnail": "https://arcuvo.github.io/images/884.webp",
+    "genre": ".IO, Agility"
+  },
+  {
+    "id": "idle-airport-ceo",
+    "thumbnail": "https://arcuvo.github.io/images/885.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "slide-stone",
+    "thumbnail": "https://arcuvo.github.io/images/886.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "paris-kiss",
+    "thumbnail": "https://arcuvo.github.io/images/887.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "cryptogram-word-brain-puzzle",
+    "thumbnail": "https://arcuvo.github.io/images/888.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "unscrew-wood-puzzle",
+    "thumbnail": "https://arcuvo.github.io/images/889.webp",
+    "genre": "Puzzle"
+  }
+]
